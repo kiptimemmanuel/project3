@@ -46,3 +46,28 @@
 .div5{
  margin:5%
 }
+.div7{
+    margin:5%
+}
+.form1{
+    background-color: transparent;
+}
+.textarea{
+    background-color: transparent;
+    border-width: thick;
+    border-color: white;
+    
+}
+.name{
+    border-width:thick;
+    background-color: transparent;
+    border-color: white;
+}
+.email{
+    background-color: transparent;
+    border-width: thick;
+    border-color: white;
+}
+::placeholder{
+    color: whitesmoke;
+}
