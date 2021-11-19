@@ -1,82 +1,101 @@
-.div1{
-    height: 80vh;
-    background-image: url(../images/h_img.jpg);
+.div1 {
+  height: 80vh;
+  background-image: url(../images/h_img.jpg);
 }
-.h11{
-    color: white;
-    font-size: 15mm;
+.h11 {
+  color: white;
+  font-size: 15mm;
 }
-.h41{
-    color: white;
+.h41 {
+  color: white;
 }
-.div3{
-    height: 45vh;
-    background-image: url(../images/s_image.jpg);
-    
+.div3 {
+  height: 45vh;
+  background-image: url(../images/s_image.jpg);
 }
-.services{
-    color: white;
-    font-size: 7mm;
+.services {
+  color: white;
+  font-size: 7mm;
 }
-.h22{
-    color: white;
-    font-size: 5mm;
+.h22 {
+  color: white;
+  font-size: 5mm;
 }
-.h41{
-    font-size: 5mm;
+.h41 {
+  font-size: 5mm;
 }
-.h21{
-    font-size: 10mm;
-}.div2p1{
-    font-size: 5mm;
+.h21 {
+  font-size: 10mm;
 }
-.div2p2{
-    font-size: 5mm;
+.div2p1 {
+  font-size: 5mm;
 }
-.div2p3{
-    font-size: 5mm;
+.div2p2 {
+  font-size: 5mm;
 }
-.div2p4{
-    font-size: 5mm;
+.div2p3 {
+  font-size: 5mm;
+}
+.div2p4 {
+  font-size: 5mm;
+}
+.div6 {
+  background-image: url(../images/c_image.jpg);
+}
+.div5 {
+  margin: 5%;
+}
+.div7 {
+  margin: 5%;
+}
+.form1 {
+  background-color: transparent;
+}
+.textarea {
+  background-color: transparent;
+  border-width: thick;
+  border-color: white;
+}
+.name {
+  border-width: thick;
+  background-color: transparent;
+  border-color: white;
+}
+.email {
+  background-color: transparent;
+  border-width: thick;
+  border-color: white;
+}
+::placeholder {
+  color: whitesmoket;
+}
+.what-we-do {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+::placeholder {
+  color: whitesmoke;
+}
 
+.design-hidden {
+  display: none;
+  cursor: pointer;
 }
-.div6{
-    background-image: url(../images/c_image.jpg);
+.p-design{
+    cursor: pointer;
 }
-.div5{
- margin:5%
+.develop-hidden{
+    display: none;
+    cursor: pointer;
 }
-.div7{
-    margin:5%
+.pdevelop{
+    cursor: pointer;
 }
-.form1{
-    background-color: transparent;
+.product-hidden{
+    display: none;
+    cursor: pointer;
 }
-.textarea{
-    background-color: transparent;
-    border-width: thick;
-    border-color: white;
-    
-}
-.name{
-    border-width:thick;
-    background-color: transparent;
-    border-color: white;
-    
-}
-.email{
-    background-color: transparent;
-    border-width: thick;
-    border-color: white;
-}
-::placeholder{
-    color: whitesmoket ;
-}
-.what-we-do{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
-}
-::placeholder{
-    color: whitesmoke;
+.product{
+    cursor: pointer;
 }
