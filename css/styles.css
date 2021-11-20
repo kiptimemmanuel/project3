@@ -82,20 +82,128 @@
   display: none;
   cursor: pointer;
 }
-.p-design{
-    cursor: pointer;
+.p-design {
+  cursor: pointer;
 }
-.develop-hidden{
-    display: none;
-    cursor: pointer;
+.develop-hidden {
+  display: none;
+  cursor: pointer;
 }
-.pdevelop{
-    cursor: pointer;
+.pdevelop {
+  cursor: pointer;
 }
-.product-hidden{
-    display: none;
-    cursor: pointer;
+.product-hidden {
+  display: none;
+  cursor: pointer;
 }
-.product{
-    cursor: pointer;
+.product {
+  cursor: pointer;
+}
+.work {
+  cursor: pointer;
+}
+.portfolio-1 {
+  position: relative;
+}
+
+.portfolio-1 .inner-text {
+  position: absolute;
+  text-align: center;
+  color: black;
+  visibility: hidden;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  opacity: 80%;
+}
+.portfolio-2{
+    position: relative;
+}
+.portfolio-2 .inner-text2 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
+}
+.portfolio-3{
+    position: relative;
+}
+.portfolio-3 .inner-text3 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
+}
+.portfolio-4{
+    position: relative;
+}
+.portfolio-4 .inner-text4 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
+}
+.portfolio-5{
+    position: relative;
+}
+.portfolio-5 .inner-text5 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
+}
+.portfolio-6{
+    position: relative;
+}
+.portfolio-6 .inner-text6 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
+}
+.portfolio-7{
+    position: relative;
+}
+.portfolio-7 .inner-text7 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
+}
+.portfolio-8{
+    position: relative;
+}
+.portfolio-8 .inner-text8 {
+    position: absolute;
+    text-align: center;
+     color: black;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+     opacity: 80%;
 }
